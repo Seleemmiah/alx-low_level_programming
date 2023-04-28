@@ -20,8 +20,8 @@ unsigned int _strlen(char *str)
 
 
 /**
- * add_node_end - add a new node at the end of the list
- * @head: Address of the first node of a list
+ * add_node_end - add a new node at the end of linked list
+ * @head: double pointer to a linked list
  * @str: string to add to the new node
  *
  * Return: address of the new node
