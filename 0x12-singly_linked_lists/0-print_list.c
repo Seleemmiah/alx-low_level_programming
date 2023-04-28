@@ -4,7 +4,7 @@
 #include "lists.h"
 
 /**
- * print_list - a function that prints all the element of a list
+ * print_list - check the code for Holberton School Students.
  * @h: name of the list
  * Return: the number of nodes.
  */
